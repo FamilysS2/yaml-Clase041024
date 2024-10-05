@@ -1,0 +1,11 @@
+_id: 670091ebce3f8c63d728f3a7
+index: 0
+tag: ["deserunt","duis","sunt","et","dolor","ad","anim"]
+friends:
+  - id: 0
+    name: "Leona Moody"
+  - id: 1
+    name: "Tammy Burns"
+  - id: 2
+    name: "Jewel Henderson"
+greeting: "Hello, Muriel Burke! You have 7 unread messages."

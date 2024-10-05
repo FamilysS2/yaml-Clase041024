@@ -1,0 +1,12 @@
+- database:
+  - personas:
+    - persona:
+      - id: 1
+        nombre: Juan Perez
+        Edad: 30
+        profesion: Ingeniero de SOftware
+        Direccion:
+          - Calle: Av. Siempre Viva
+            numero: 742
+            ciudad: Springfield
+        Hobbies: ["Leer ciencia ficción","Jugar ajedrez","Senderismo"]
